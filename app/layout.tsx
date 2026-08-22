@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     'Çağrı Bilginer',
   ],
   authors: [{ name: site.name, url: site.url }],
-  icons: { icon: '/myicon.ico' },
+  icons: { icon: '/myicon.png' },
   openGraph: {
     type: 'website',
     url: site.url,
