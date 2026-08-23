@@ -45,7 +45,7 @@ export function ContactCard() {
         ))}
         <li>
           <a href={site.resume} target="_blank" rel="noopener noreferrer">
-            <span>Résumé</span>
+            <span>Resume</span>
             <span className="handle">PDF</span>
           </a>
         </li>

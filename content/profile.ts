@@ -17,7 +17,6 @@ export const profile = {
   paragraphs: [
     'I graduated in Computer Engineering from Koç University in Sarıyer, İstanbul, and I am aiming squarely at game development. Unity and C# are where I want to spend my time, and Java, Python and C are where I learned to think about architecture, clean object-oriented design and code that stays maintainable once it grows.',
     'Along the way I have shipped real software: banking features in Java, C#, XAML and SQL at IBTECH, functional testing on a contact center platform at TEGSOFT, engineering work at Yapı Kredi Teknoloji, and STM32 firmware plus an in-vehicle dashboard for a Teknofest efficiency vehicle. I also build mobile products in Flutter and keep experimenting with machine learning on the side.',
-    'Games are where all of that comes together — systems design, tight feedback loops and the part of engineering where the output is something people actually feel.',
   ],
   awayIntro:
     'Away from the keyboard, most of my time goes to sport and the water.',
@@ -28,15 +27,15 @@ export const profile = {
     },
     {
       title: 'Scuba diving',
-      note: 'SSI Divemaster, and a board member of Koç University’s underwater sports club.',
+      note: 'SSI Divemaster, and a former board member of Koç University’s underwater sports club.',
     },
     {
       title: 'Ultimate frisbee',
-      note: 'Koç Ramses — team captain for the 2023–2024 season.',
+      note: 'Played for Koç Ramses all four years, captaining the team in the 2023–2024 season.',
     },
     {
       title: 'Photography',
-      note: 'Mostly on dive trips and while travelling.',
+      note: "I bring a camera wherever I go — dive trips, travel, whatever's worth capturing.",
     },
   ],
 };

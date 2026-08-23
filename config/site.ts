@@ -10,15 +10,13 @@ export const site = {
   description:
     'Game development (Unity, C#) — portfolio of Çağrı Bilginer, Computer Engineering graduate of Koç University. Explore it as a 2D physics playground, or as a plain list.',
   url: 'https://cagribilginer.github.io',
-  email: 'cagribilginer60@gmail.com',
+  email: 'cagribilginer.dev@gmail.com',
   resume: '/assets/Cagri_Bilginer_CV.pdf',
   location: 'İstanbul, Sarıyer',
   social: {
     github: 'https://github.com/cagribilginer',
     linkedin: 'https://www.linkedin.com/in/cagribilginer',
     instagram: 'https://www.instagram.com/cagri.bilginer',
-    x: 'https://twitter.com/cagri_bilginer',
-    reddit: 'https://www.reddit.com/user/cago_8',
   },
 } as const;
 
@@ -35,6 +33,4 @@ export const socialLinks: SocialLink[] = [
   { label: 'GitHub', href: site.social.github, handle: 'cagribilginer' },
   { label: 'LinkedIn', href: site.social.linkedin, handle: 'cagribilginer' },
   { label: 'Instagram', href: site.social.instagram, handle: 'cagri.bilginer' },
-  { label: 'X', href: site.social.x, handle: 'cagri_bilginer' },
-  { label: 'Reddit', href: site.social.reddit, handle: 'cago_8' },
 ];

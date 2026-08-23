@@ -342,7 +342,9 @@ button {
   padding: clamp(2rem, 5vw, 3.4rem) 0 clamp(1.5rem, 3vw, 2rem);
   border-bottom: 1px solid var(--card-line);
   display: grid;
+  justify-items: center;
   gap: 0.55rem;
+  text-align: center;
 }
 
 .hero-eyebrow {
@@ -358,6 +360,7 @@ button {
   letter-spacing: -0.035em;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0 0.32em;
 }
 
@@ -381,6 +384,7 @@ button {
 .hero-facts {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 0.5rem 2.25rem;
   margin-top: 0.75rem;
   padding-top: 1rem;
@@ -851,7 +855,7 @@ button {
 
 .stack {
   display: grid;
-  justify-items: center;
+  justify-items: stretch;
   gap: 1rem;
 }
 
@@ -909,11 +913,6 @@ button {
   align-content: start;
 }
 
-.card--experience {
-  /* Otherwise the card stretches to the full section width, leaving most of
-     it empty next to a description that maxes out at `--measure`. */
-  max-width: 46rem;
-}
 
 .card--project {
   transition: transform 0.15s ease, border-color 0.15s ease;
@@ -955,6 +954,11 @@ button {
 .card-body {
   max-width: var(--measure);
   color: var(--text-muted);
+}
+
+.card--experience .card-body,
+.card--profile .card-body {
+  max-width: none;
 }
 
 .card-body--lead {

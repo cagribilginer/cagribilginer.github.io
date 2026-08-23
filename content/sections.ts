@@ -20,7 +20,7 @@ export const sections: SectionDef[] = [
   {
     id: 'experience',
     label: 'Experience',
-    blurb: 'Internships, clubs and teams — six entries.',
+    blurb: 'Internships, clubs and teams.',
   },
   {
     id: 'skills',
