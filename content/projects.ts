@@ -77,13 +77,14 @@ export const projects: Project[] = [
       'Full-stack emergency aid distribution system for a database systems course — designed a PostgreSQL schema (8 tables, 1,260+ seed rows sourced from real FEMA disaster records), built a Flask REST API with analytical SQL views, and a React dashboard for coordinators to track active disasters, volunteer deployments, and supply inventory in real time.',
     technologies: ['PostgreSQL', 'Flask', 'React', 'SQL', 'Full-stack'],
     links: [{ label: 'aidtrack-system-b798.vercel.app', href: 'https://aidtrack-system-b798.vercel.app/dashboard' }],
+    image: '/assets/projects/project6.webp',
   },
   {
-    title: 'TripPlanner.ai',
+    title: 'TripPlanner',
     status: 'Coming soon',
     summary:
       'A trip-planning tool born out of a real problem — coordinating cheap flights, stays, and things to do across Europe with a friend already abroad, where flight prices, timing, and routes all had to line up. Automates that combinatorial search instead of doing it by hand.',
-    technologies: ['AI', 'Travel', 'Coming soon'],
+    technologies: ['AI', 'Travel'],
     links: [],
   },
 ];
