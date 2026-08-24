@@ -6,9 +6,9 @@ export const site = {
   name: 'Çağrı Bilginer',
   givenName: 'Çağrı',
   familyName: 'Bilginer',
-  title: 'Çağrı Bilginer — Game Development Portfolio',
+  title: 'Çağrı Bilginer — Software Engineering Portfolio',
   description:
-    'Game development (Unity, C#) — portfolio of Çağrı Bilginer, Computer Engineering graduate of Koç University. Explore it as a 2D physics playground, or as a plain list.',
+    'Software engineering portfolio of Çağrı Bilginer — Computer Engineering graduate of Koç University, spanning full-stack development, Unity/C# game development, and mobile apps. Explore it as a 2D physics playground, or as a plain list.',
   url: 'https://cagribilginer.github.io',
   email: 'cagribilginer.dev@gmail.com',
   resume: '/assets/Cagri_Bilginer_CV.pdf',

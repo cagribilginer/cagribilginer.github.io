@@ -1,8 +1,9 @@
 # Çağrı Bilginer — Portfolio
 
 Personal portfolio for a Computer Engineering graduate of Koç University
-applying to game development roles. Next.js (App Router) + TypeScript, no CSS
-framework, deployed as a fully static export to GitHub Pages at
+applying to software engineering roles, spanning full-stack development,
+Unity/C# game development, and mobile apps. Next.js (App Router) + TypeScript,
+no CSS framework, deployed as a fully static export to GitHub Pages at
 [cagribilginer.github.io](https://cagribilginer.github.io/).
 
 ## The idea — Dive Physics Playground

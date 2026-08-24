@@ -37,7 +37,8 @@ export const metadata: Metadata = {
   title: site.title,
   description: site.description,
   keywords: [
-    'game development',
+    'software engineer',
+    'full-stack development',
     'Unity',
     'C#',
     'Computer Engineering',

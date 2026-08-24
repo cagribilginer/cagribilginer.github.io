@@ -7,11 +7,6 @@ export interface SkillGroup {
 
 export const skills: SkillGroup[] = [
   {
-    title: 'Game development',
-    short: 'Game dev',
-    items: ['Unity', 'C#', 'Game systems', 'OOP architecture'],
-  },
-  {
     title: 'Programming languages',
     short: 'Languages',
     items: ['Java', 'Python', 'C', 'C#', 'Swift', 'Dart', 'JavaScript'],
@@ -45,5 +40,10 @@ export const skills: SkillGroup[] = [
     title: 'Design',
     short: 'Design',
     items: ['Photoshop'],
+  },
+  {
+    title: 'Game development',
+    short: 'Game dev',
+    items: ['Unity', 'C#', 'Game systems', 'OOP architecture'],
   },
 ];

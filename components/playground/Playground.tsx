@@ -750,7 +750,7 @@ export function Playground() {
           onContextMenu={(event) => event.preventDefault()}
         />
 
-        <h1 className="sr-only">Çağrı Bilginer — game development portfolio</h1>
+        <h1 className="sr-only">Çağrı Bilginer — software engineering portfolio</h1>
         <p className="sr-only" aria-live="polite">
           {announcement}
         </p>
