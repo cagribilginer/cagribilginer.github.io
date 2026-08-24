@@ -26,11 +26,11 @@ export const profile = {
       note: 'Pickup games and following the sport — a constant since before any of the code.',
     },
     {
-      title: 'Scuba diving',
+      title: 'Scuba Diving',
       note: 'SSI Divemaster, and a former board member of Koç University’s underwater sports club.',
     },
     {
-      title: 'Ultimate frisbee',
+      title: 'Ultimate Frisbee',
       note: 'Played for Koç Ramses all four years, captaining the team in the 2023–2024 season.',
     },
     {
