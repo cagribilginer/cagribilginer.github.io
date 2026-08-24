@@ -5,9 +5,9 @@ export const hero = {
   statement:
     'Computer Engineering graduate in İstanbul building full-stack software and Unity/C# games, with production experience in banking, QA and embedded systems.',
   facts: [
-    { label: 'Based in', value: 'İstanbul, Sarıyer' },
+    { label: 'Based in', value: 'İstanbul, Kağıthane' },
     { label: 'Graduate of', value: 'Computer Engineering, Koç University' },
-    { label: 'Open to', value: 'Full-stack & game development roles' },
+    { label: 'Open to', value: 'Full-Stack & Game Development Roles' },
   ],
 };
 

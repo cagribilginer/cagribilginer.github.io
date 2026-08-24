@@ -7,34 +7,34 @@ export interface SkillGroup {
 
 export const skills: SkillGroup[] = [
   {
-    title: 'Programming languages',
+    title: 'Programming Languages',
     short: 'Languages',
     items: ['Java', 'Python', 'C', 'C#', 'Swift', 'Dart', 'JavaScript'],
   },
   {
-    title: 'Frontend & mobile',
+    title: 'Frontend & Mobile',
     short: 'Frontend',
     items: ['Flutter', 'React', '.NET / XAML'],
   },
   {
-    title: 'Databases & data',
+    title: 'Databases & Data',
     short: 'Data',
     items: ['SQL', 'Redis', 'Qdrant'],
   },
   {
-    title: 'DevOps & tooling',
+    title: 'DevOps & Tooling',
     short: 'DevOps',
     items: ['Docker', 'Railway', 'Git', 'GitHub'],
   },
   {
-    title: 'Embedded & hardware',
+    title: 'Embedded & Hardware',
     short: 'Embedded',
     items: ['STM32', 'Embedded C', 'Dashboard / HMI'],
   },
   {
-    title: 'AI & assistants',
+    title: 'AI & Assistants',
     short: 'AI',
-    items: ['Claude', 'Cursor', 'ML exploration'],
+    items: ['Claude', 'Cursor', 'ML Exploration'],
   },
   {
     title: 'Design',
@@ -42,8 +42,8 @@ export const skills: SkillGroup[] = [
     items: ['Photoshop'],
   },
   {
-    title: 'Game development',
+    title: 'Game Development',
     short: 'Game dev',
-    items: ['Unity', 'C#', 'Game systems', 'OOP architecture'],
+    items: ['Unity', 'C#', 'Game Systems', 'OOP Architecture'],
   },
 ];

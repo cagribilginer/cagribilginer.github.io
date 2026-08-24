@@ -33,7 +33,7 @@ export const experience: ExperienceItem[] = [
       'Wrote and executed functional and regression test cases in BrowserStack for a contact center platform, validating core call and chat features across releases.',
       'Tracked defects in Jira and verified backend data integrity, working closely with developers to resolve issues and keep the platform stable through each deployment cycle.',
     ],
-    technologies: ['QA', 'Functional testing', 'Regression testing', 'Jira', 'Data integrity'],
+    technologies: ['QA', 'Functional Testing', 'Regression Testing', 'Jira', 'Data Integrity'],
   },
   {
     role: 'Software Engineer Intern',
@@ -45,7 +45,7 @@ export const experience: ExperienceItem[] = [
       'Started in the Corporate Loans team, replacing hardcoded values in a banking system’s interface with dynamic JSON-based data handling — building the C# (XAML) frontend to capture and validate user input, and Java backend logic to process and fetch the corresponding data.',
       'Transferred to the Leasing department to help modernize a legacy system end-to-end: designed new screens, implemented features and bug fixes, and participated in code reviews.',
     ],
-    technologies: ['Java', 'C#', 'XAML', 'JSON', 'Banking software', 'Agile'],
+    technologies: ['Java', 'C#', 'XAML', 'JSON', 'Banking Software', 'Agile'],
   },
   {
     role: 'Board Member',
@@ -57,7 +57,7 @@ export const experience: ExperienceItem[] = [
       'Helped organize scuba diving trips to coastal dive sites across Turkey for the university community.',
       'Planned meetings and events that introduced students to scuba diving and grew participation in underwater sports.',
     ],
-    technologies: ['Event planning', 'Team leadership', 'Community building', 'Scuba diving'],
+    technologies: ['Event Planning', 'Team Leadership', 'Community Building', 'Scuba Diving'],
   },
   {
     role: 'Team Member',
@@ -70,7 +70,7 @@ export const experience: ExperienceItem[] = [
       'Built and debugged embedded software on STM32 and designed the in-vehicle gauge cluster / dashboard display for driver feedback.',
       'Focused on STM32 firmware and the instrument cluster display; motor driver, VCU and other electrical hardware were handled by teammates.',
     ],
-    technologies: ['STM32', 'Embedded C', 'HMI / dashboard', 'Teknofest'],
+    technologies: ['STM32', 'Embedded C', 'HMI / Dashboard', 'Teknofest'],
   },
   {
     role: 'Player · Team Captain (2023–2024)',
@@ -82,6 +82,6 @@ export const experience: ExperienceItem[] = [
       'Competed with the university ultimate frisbee team in trainings, tournaments and inter-university play.',
       'Served as team captain for the 2023–2024 season, helping coordinate practices, strategy and team culture.',
     ],
-    technologies: ['Ultimate frisbee', 'Team captaincy', 'Sports leadership'],
+    technologies: ['Ultimate Frisbee', 'Team Captaincy', 'Sports Leadership'],
   },
 ];
