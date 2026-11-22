@@ -12,6 +12,18 @@ export interface ExperienceItem {
 
 export const experience: ExperienceItem[] = [
   {
+    role: 'Game Developer Intern',
+    year: 'Nov 2026',
+    company: 'Vertigo Games',
+    short: 'Vertigo',
+    location: 'İstanbul',
+    description: [
+      'Worked on the game team in a Unity and C# codebase, developing new features for the studio’s game.',
+      'Wrote and ran tests for the features I built, helping keep the game stable as the codebase evolved.',
+    ],
+    technologies: ['Unity', 'C#', 'Testing', 'Game Development'],
+  },
+  {
     role: 'Software Engineer Intern',
     year: 'Feb 2026 – Jun 2026',
     company: 'Yapı Kredi Teknoloji',
@@ -71,17 +83,5 @@ export const experience: ExperienceItem[] = [
       'Focused on STM32 firmware and the instrument cluster display; motor driver, VCU and other electrical hardware were handled by teammates.',
     ],
     technologies: ['STM32', 'Embedded C', 'HMI / Dashboard', 'Teknofest'],
-  },
-  {
-    role: 'Player · Team Captain (2023–2024)',
-    year: 'Sep 2021 – Jun 2024',
-    company: 'Koç Ramses Ultimate Frisbee Team',
-    short: 'Koç Ramses',
-    location: 'İstanbul, Sarıyer',
-    description: [
-      'Competed with the university ultimate frisbee team in trainings, tournaments and inter-university play.',
-      'Served as team captain for the 2023–2024 season, helping coordinate practices, strategy and team culture.',
-    ],
-    technologies: ['Ultimate Frisbee', 'Team Captaincy', 'Sports Leadership'],
   },
 ];
