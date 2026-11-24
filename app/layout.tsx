@@ -53,11 +53,20 @@ export const metadata: Metadata = {
     title: site.title,
     description: site.description,
     siteName: site.name,
+    images: [
+      {
+        url: '/og.jpg',
+        width: 1200,
+        height: 630,
+        alt: `${site.name} portrait`,
+      },
+    ],
   },
   twitter: {
-    card: 'summary',
+    card: 'summary_large_image',
     title: site.title,
     description: site.description,
+    images: ['/og.jpg'],
   },
 };
 
